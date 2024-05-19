@@ -1,0 +1,1 @@
+enum PageSort { ASC, DESC }
